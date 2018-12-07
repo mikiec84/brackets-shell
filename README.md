@@ -1,5 +1,7 @@
 ## Overview
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/brackets-shell.svg)](https://greenkeeper.io/)
+
 This is the CEF3-based application shell for [Brackets](https://github.com/adobe/brackets). 
 
 Please read the main [README in the brackets repo](https://github.com/adobe/brackets/blob/master/README.md) 
