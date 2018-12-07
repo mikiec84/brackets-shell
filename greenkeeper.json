@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "appshell/node-core/package.json",
+        "appshell/node-core/thirdparty/ws/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
